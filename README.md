@@ -11,7 +11,7 @@ Then, I started to have things like this happen:
 
 Ouch... 
 
-This data loss could have likely been avoided if I would have been a little more intentional in how I managed my data. Since then, I've invested in a NAS, experimented a bunch, and am now in the process of putting together a personal backup plan 
+This data loss could probably have been avoided if I would have been a little more intentional in how I managed my data. Since then, I've invested in a NAS, experimented a bunch, and am now in the process of putting together a personal backup plan 
 
 ### Everyone's data is different
 Another thing I think is important about having a bit of an individual data backup plan, is that everyone's data is different! 
