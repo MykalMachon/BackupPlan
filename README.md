@@ -28,9 +28,9 @@ The server has 4TB of effective storage set up in raid 1 (2 x 4TB drives), but I
 ### Locally Hosted Apps
 These tools are all hosted on my local Unraid Server. 
 
-- [x] **RClone**: for synncing files on my Unraid server to cloud backup locations
-- [x] **NextCloud**: for remote access to my photos, documents, and other data. Think of NextCloud like a personal google drive.
-- [x]  **GitHub Backup**: A simple app that does a nightly sync of all my code on github to my unraid server
+- [x] **RClone**: for syncing files on my Unraid server to cloud backup locations
+- [x] **NextCloud**: for remote access to my photos, documents, and other data. Think of NextCloud like a personal Google Drive.
+- [x]  **GitHub Backup**: A simple app that does a nightly sync of all my code on github to my unraid server.
 - [x] **Trillium**: A personal knowledge base. I use this to keep daily work notes, meeting notes, and general information / documentation. Think of Trillium like a personal Notion. 
 - [x] **NGINX Reverse Proxy**: A simple reverse proxy gui. Makes my services available from the internet. 
 
@@ -39,7 +39,6 @@ While I try to keep as much as I can local, there are some tools that are just b
 
 - [x] Cloudflare: DNS management and proxy. They rock
 - [x] BackBlaze B2: very affordable cloud based backup solution that I push my important files to nightly
-
 
 ## General Strategy
 
