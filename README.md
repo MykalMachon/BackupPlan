@@ -32,6 +32,7 @@ These tools are all hosted on my local Unraid Server.
 - [x] **NextCloud**: for remote access to my photos, documents, and other data. Think of NextCloud like a personal Google Drive.
 - [x]  **GitHub Backup**: A simple app that does a nightly sync of all my code on github to my unraid server.
 - [x] **Trillium**: A personal knowledge base. I use this to keep daily work notes, meeting notes, and general information / documentation. Think of Trillium like a personal Notion. 
+- [x] **Home Assistant**: for managing home automation devices and NFC tags. 
 - [x] **NGINX Reverse Proxy**: A simple reverse proxy gui. Makes my services available from the internet. 
 
 ### Cloud Components
